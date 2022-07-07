@@ -1,4 +1,4 @@
-https://raw.githubusercontent.com/Greta-Calamari/Greta-Calamari/main/header.png
+![Test Image 1](https://raw.githubusercontent.com/Greta-Calamari/Greta-Calamari/main/header.png)
 
 Ciao sono Greta 👨‍💻
 
